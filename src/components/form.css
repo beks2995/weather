@@ -1,0 +1,18 @@
+form{
+    display: flex;
+    justify-content: center;
+}
+.search{
+    padding: 15px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    outline: none;
+    border: 1px solid #fff;
+}
+.button{
+    padding: 15px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    outline: none;
+    border: 1px solid #fff;
+}
